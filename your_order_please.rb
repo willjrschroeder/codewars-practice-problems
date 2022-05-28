@@ -40,7 +40,7 @@ I then need to isloate the words and combine them into a string separated by whi
 	Iterate through the outer array
 		Push the first element in each pair onto a new array
 
-I can return this string as the solution
+I can join this new array on whitespace and return it as the solution
 
 '''
 
